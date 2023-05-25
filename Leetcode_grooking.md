@@ -1,4 +1,4 @@
-# LeetGrokk
+# LEETCODE-GROKKING
 
 ## Checkbox Instructions
 
